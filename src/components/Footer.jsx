@@ -49,10 +49,10 @@ const Footer = () => {
         <div className="footer-section">
           <h4>Connect With Us</h4>
           <div className="footer-social">
-            <a href="#" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
-            <a href="#" aria-label="Twitter"><i className="fab fa-twitter"></i></a>
-            <a href="#" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
-            <a href="#" aria-label="LinkedIn"><i className="fab fa-linkedin-in"></i></a>
+            <a href="https://facebook.com" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com" aria-label="Twitter"><i className="fab fa-twitter"></i></a>
+            <a href="https://instagram.com" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
+            <a href="https://linkedin.com" aria-label="LinkedIn"><i className="fab fa-linkedin-in"></i></a>
           </div>
           <p className="footer-contact">
             <i className="fas fa-envelope"></i> info@hocomobile.ie
